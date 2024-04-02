@@ -2,7 +2,7 @@
 [![Build and Push Docker Image](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/build-and-push.yml)
 [![Test CWL Files With Singularity](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/singularity-test.yml/badge.svg)](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/singularity-test.yml)
 
-# tool-docker-cwl
+# harold-docker-cwl
 
 This repository provides a [Common Workflow Language (CWL)](https://www.commonwl.org/) tool for running the [tool](link) program. The tool is packaged in a Docker container, allowing it to run on any system with Docker or Singularity installed.
 
