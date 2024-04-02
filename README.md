@@ -1,3 +1,4 @@
+[![Build and Test Docker Image](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/build-and-test.yml)
 [![Build and Push Docker Image](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/bwbioinfo/harold-docker-cwl/actions/workflows/build-and-push.yml)
 
 # tool-docker-cwl
